@@ -10,14 +10,12 @@
 
 - [ChatGPT 学习模式](https://help.openai.com/en/articles/11780217-study-mode)：用追问、提示和分步骤讲解帮助理解课程概念、练习解题。可以要求它先检查你的思路，再给提示；不要只复制最终答案。
 - [NotebookLM](https://notebooklm.google.com/)：围绕自己添加的讲义、论文和资料提问、总结，适合复习和跨资料梳理。回答应结合原文核验。
-- [Google Scholar](https://scholar.google.com/)：查找论文、学位论文和引用关系。检索到论文后，优先通过学校图书馆或开放获取版本阅读全文。
 
 ## 学术资料与文献管理
 
 - [中国农业大学图书馆](https://library.cau.edu.cn/)：查找学校订购的数据库、电子期刊和图书资源；校外访问方式以图书馆说明为准。
 - [OpenStax](https://openstax.org/subjects)：提供可免费阅读的开放教材，适合补充基础课程知识；教材以英文为主。
 - [Zotero](https://www.zotero.org/)：免费开源的文献管理工具，可保存论文信息、整理 PDF、做笔记并生成引用格式。
-- [DOAJ 开放期刊目录](https://doaj.org/)：查找开放获取学术期刊和文章。
 
 > 关于 Z-Library：获取或分享图书前请确认版权与当地规定。优先使用学校图书馆、出版社开放资源和明确标注开放许可的教材。
 
